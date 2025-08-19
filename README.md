@@ -40,6 +40,8 @@ Arquivo com todas as vendas do mês de junho.
 
 Arquivo com o total de vendas do mês.
 
+##
+
 Projeto simples mais que serve de base para treino é aperfeiçoamento vamos ta deixando mais profissional.
 
 
