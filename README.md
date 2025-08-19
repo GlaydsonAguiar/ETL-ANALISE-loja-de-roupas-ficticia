@@ -1,6 +1,7 @@
 📊 Análise de Vendas por Região – Junho (OBS: DADOS FICTICIOS GERADOS POR IA) exelente para uma boa pratica.
 ##
 Projeto simples mais que serve de base para treino é aperfeiçoamento vamos ta deixando mais profissional.
+##
 📌 Descrição do Projeto
 
 Este projeto tem como objetivo analisar o desempenho de vendas de uma rede de roupas, com foco no mês de junho.
