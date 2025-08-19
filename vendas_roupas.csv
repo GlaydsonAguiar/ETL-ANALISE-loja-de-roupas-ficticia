@@ -1,0 +1,501 @@
+Data_Venda,Produto,Cor,Tamanho,Preço_Unitário,Quantidade,Canal_Venda,Região,Valor_Total
+2024-12-12,Jaqueta,Preto,GG,110.0,2,E-commerce,Centro-Oeste,220.0
+2024-10-28,Short,Amarelo,G,93.07,1,Marketplace,Centro-Oeste,93.07
+2024-09-26,Vestido,Amarelo,M,41.37,3,Loja Física,Norte,124.11
+2025-08-06,Short,Verde,PP,34.83,1,E-commerce,Sudeste,34.83
+2024-09-21,Short,Branco,M,296.69,3,E-commerce,Sul,890.07
+2024-10-09,Calça,Branco,M,145.5,4,Loja Física,Nordeste,582.0
+2025-04-16,Vestido,Amarelo,GG,133.77,2,Loja Física,Nordeste,267.54
+2024-12-07,Vestido,Verde,G,213.5,1,Loja Física,Centro-Oeste,213.5
+2024-09-18,Vestido,Vermelho,P,88.93,3,E-commerce,Sudeste,266.79
+2024-12-09,Short,Branco,G,286.49,1,Marketplace,Norte,286.49
+2025-02-04,Jaqueta,Vermelho,G,242.31,1,E-commerce,Sudeste,242.31
+2025-06-25,Vestido,Branco,M,54.14,2,Marketplace,Sudeste,108.28
+2025-03-23,Saia,Branco,G,142.75,4,E-commerce,Norte,571.0
+2025-07-08,Short,Azul,PP,267.36,1,E-commerce,Centro-Oeste,267.36
+2025-06-19,Calça,Branco,M,285.08,3,Loja Física,Sudeste,855.24
+2024-12-07,Jaqueta,Preto,PP,156.2,3,Marketplace,Nordeste,468.6
+2025-06-14,Saia,Verde,P,195.62,4,E-commerce,Norte,782.48
+2025-01-14,Saia,Verde,M,75.1,3,E-commerce,Sul,225.3
+2025-03-15,Calça,Vermelho,P,297.62,4,Loja Física,Centro-Oeste,1190.48
+2024-11-09,Jaqueta,Branco,M,92.55,3,Loja Física,Norte,277.65
+2024-12-12,Short,Preto,GG,284.54,2,Marketplace,Sul,569.08
+2025-07-25,Camiseta,Vermelho,G,205.4,1,E-commerce,Sul,205.4
+2025-05-10,Jaqueta,Azul,GG,194.09,2,Marketplace,Sudeste,388.18
+2025-02-28,Calça,Vermelho,P,168.43,1,E-commerce,Sudeste,168.43
+2025-03-30,Saia,Vermelho,G,92.28,1,Marketplace,Sudeste,92.28
+2024-12-24,Short,Branco,M,77.66,1,Loja Física,Norte,77.66
+2024-09-30,Jaqueta,Azul,G,89.53,2,E-commerce,Norte,179.06
+2024-09-30,Camiseta,Vermelho,PP,80.34,1,Marketplace,Centro-Oeste,80.34
+2024-12-20,Camiseta,Preto,G,240.49,2,Loja Física,Sudeste,480.98
+2025-02-11,Vestido,Preto,PP,124.53,4,Loja Física,Sul,498.12
+2025-06-23,Vestido,Verde,G,45.62,3,Marketplace,Nordeste,136.86
+2025-07-10,Calça,Azul,PP,291.66,3,E-commerce,Centro-Oeste,874.98
+2025-06-23,Jaqueta,Azul,P,268.62,1,E-commerce,Norte,268.62
+2025-01-16,Jaqueta,Verde,GG,280.49,2,Loja Física,Centro-Oeste,560.98
+2024-11-01,Saia,Vermelho,M,298.63,3,E-commerce,Centro-Oeste,895.89
+2024-08-29,Saia,Azul,G,76.95,2,E-commerce,Centro-Oeste,153.9
+2025-05-21,Saia,Preto,GG,136.99,2,E-commerce,Centro-Oeste,273.98
+2025-06-01,Vestido,Preto,M,234.72,1,Loja Física,Nordeste,234.72
+2024-10-08,Jaqueta,Branco,M,217.93,3,Marketplace,Sudeste,653.79
+2024-11-18,Jaqueta,Azul,PP,71.55,1,E-commerce,Sul,71.55
+2025-04-14,Camiseta,Vermelho,P,250.27,1,Loja Física,Centro-Oeste,250.27
+2025-05-17,Vestido,Verde,P,90.6,3,Loja Física,Centro-Oeste,271.8
+2024-10-07,Short,Verde,GG,90.43,3,Marketplace,Centro-Oeste,271.29
+2024-09-08,Vestido,Vermelho,P,174.98,4,E-commerce,Sudeste,699.92
+2025-03-27,Short,Amarelo,G,190.09,4,E-commerce,Norte,760.36
+2025-07-13,Camiseta,Branco,P,186.62,2,Marketplace,Norte,373.24
+2025-03-06,Calça,Verde,GG,54.7,3,Marketplace,Nordeste,164.1
+2025-05-19,Jaqueta,Azul,P,266.91,4,Loja Física,Norte,1067.64
+2025-04-23,Camiseta,Branco,G,101.71,2,Loja Física,Centro-Oeste,203.42
+2025-04-21,Jaqueta,Azul,PP,64.97,2,Marketplace,Centro-Oeste,129.94
+2025-08-08,Saia,Preto,GG,269.96,2,E-commerce,Centro-Oeste,539.92
+2025-02-20,Calça,Branco,PP,288.03,4,Loja Física,Nordeste,1152.12
+2025-05-20,Calça,Verde,PP,262.77,3,Loja Física,Centro-Oeste,788.31
+2024-09-19,Camiseta,Branco,PP,248.57,1,E-commerce,Norte,248.57
+2025-06-17,Calça,Branco,M,206.92,2,Loja Física,Sudeste,413.84
+2024-09-10,Short,Branco,M,178.73,4,E-commerce,Sudeste,714.92
+2025-04-16,Calça,Amarelo,PP,53.49,4,E-commerce,Sul,213.96
+2025-01-21,Jaqueta,Branco,GG,140.28,1,E-commerce,Norte,140.28
+2025-07-15,Jaqueta,Azul,G,130.63,1,Marketplace,Centro-Oeste,130.63
+2025-03-06,Jaqueta,Preto,G,100.13,4,Marketplace,Sudeste,400.52
+2024-10-02,Jaqueta,Vermelho,P,225.32,3,Marketplace,Norte,675.96
+2024-12-01,Short,Branco,GG,163.89,1,E-commerce,Sudeste,163.89
+2024-12-28,Vestido,Verde,M,51.88,4,E-commerce,Centro-Oeste,207.52
+2025-02-09,Saia,Branco,PP,89.45,1,Marketplace,Sudeste,89.45
+2024-09-04,Camiseta,Verde,P,214.48,3,Loja Física,Sul,643.44
+2025-02-13,Jaqueta,Azul,G,50.56,2,E-commerce,Sul,101.12
+2025-02-19,Calça,Verde,M,259.83,1,Loja Física,Sudeste,259.83
+2025-02-18,Jaqueta,Vermelho,M,163.69,3,Loja Física,Norte,491.07
+2024-11-16,Calça,Preto,PP,159.76,4,E-commerce,Norte,639.04
+2024-11-15,Saia,Verde,G,189.95,1,E-commerce,Norte,189.95
+2024-10-06,Saia,Verde,GG,252.66,1,Loja Física,Sudeste,252.66
+2024-10-15,Saia,Preto,M,123.91,4,Loja Física,Norte,495.64
+2025-07-03,Calça,Vermelho,PP,213.06,2,Marketplace,Centro-Oeste,426.12
+2025-03-23,Jaqueta,Branco,GG,182.75,4,Marketplace,Sul,731.0
+2024-12-09,Saia,Verde,G,102.1,1,E-commerce,Centro-Oeste,102.1
+2025-07-30,Short,Preto,M,267.23,4,Marketplace,Norte,1068.92
+2025-07-03,Calça,Azul,GG,245.31,3,Marketplace,Centro-Oeste,735.93
+2025-02-06,Calça,Preto,GG,207.78,4,Marketplace,Norte,831.12
+2024-08-22,Jaqueta,Azul,GG,259.66,1,Marketplace,Sudeste,259.66
+2024-10-02,Calça,Vermelho,M,264.17,4,Loja Física,Centro-Oeste,1056.68
+2024-11-09,Calça,Branco,M,221.26,2,E-commerce,Sudeste,442.52
+2024-11-20,Saia,Preto,P,255.99,4,Marketplace,Sudeste,1023.96
+2025-03-24,Jaqueta,Amarelo,G,218.32,2,Loja Física,Nordeste,436.64
+2024-12-30,Saia,Verde,PP,213.64,3,Loja Física,Norte,640.92
+2025-02-01,Saia,Vermelho,GG,197.03,2,Loja Física,Sul,394.06
+2025-06-23,Jaqueta,Preto,P,233.23,4,Marketplace,Norte,932.92
+2024-11-10,Camiseta,Verde,PP,72.82,1,Marketplace,Sul,72.82
+2025-06-29,Saia,Preto,P,267.84,2,E-commerce,Norte,535.68
+2024-11-08,Short,Azul,M,265.4,3,Marketplace,Sudeste,796.2
+2024-09-15,Short,Preto,GG,37.9,2,Marketplace,Centro-Oeste,75.8
+2025-01-07,Calça,Amarelo,PP,252.97,2,Loja Física,Centro-Oeste,505.94
+2024-08-16,Short,Preto,PP,64.79,2,E-commerce,Nordeste,129.58
+2025-07-20,Calça,Preto,PP,120.48,3,Marketplace,Sul,361.44
+2024-10-24,Camiseta,Amarelo,PP,230.75,4,Marketplace,Sul,923.0
+2025-06-14,Jaqueta,Vermelho,PP,73.41,2,Loja Física,Sul,146.82
+2024-08-30,Jaqueta,Preto,P,250.85,2,Loja Física,Sudeste,501.7
+2024-09-19,Jaqueta,Amarelo,GG,254.68,1,Marketplace,Sul,254.68
+2025-01-20,Short,Verde,M,167.02,3,E-commerce,Centro-Oeste,501.06
+2025-06-05,Camiseta,Azul,M,31.72,2,E-commerce,Sudeste,63.44
+2024-12-13,Short,Azul,M,107.5,3,Loja Física,Norte,322.5
+2025-01-25,Short,Preto,M,196.57,2,Loja Física,Sul,393.14
+2025-06-24,Camiseta,Vermelho,P,294.92,4,Marketplace,Sul,1179.68
+2024-12-12,Camiseta,Vermelho,G,200.59,4,Loja Física,Norte,802.36
+2024-10-27,Camiseta,Verde,GG,100.15,2,Marketplace,Sul,200.3
+2024-09-18,Camiseta,Preto,PP,201.18,4,E-commerce,Norte,804.72
+2024-09-13,Jaqueta,Azul,G,175.8,2,E-commerce,Sudeste,351.6
+2024-12-26,Vestido,Vermelho,M,240.56,4,Marketplace,Centro-Oeste,962.24
+2025-03-06,Vestido,Preto,G,58.88,1,Loja Física,Norte,58.88
+2025-04-28,Camiseta,Vermelho,GG,235.48,1,E-commerce,Nordeste,235.48
+2025-04-18,Vestido,Amarelo,PP,176.14,1,Loja Física,Norte,176.14
+2024-11-21,Vestido,Vermelho,PP,290.01,3,E-commerce,Sul,870.03
+2024-09-19,Camiseta,Azul,GG,122.31,3,Marketplace,Sudeste,366.93
+2025-05-20,Vestido,Branco,GG,200.81,1,Marketplace,Sudeste,200.81
+2024-12-09,Short,Verde,M,281.65,3,Marketplace,Norte,844.95
+2025-06-26,Calça,Verde,PP,57.68,4,E-commerce,Centro-Oeste,230.72
+2025-04-07,Calça,Azul,G,283.05,2,Loja Física,Nordeste,566.1
+2024-11-11,Camiseta,Vermelho,P,215.73,2,Loja Física,Sudeste,431.46
+2024-10-19,Jaqueta,Preto,P,48.32,2,Loja Física,Sul,96.64
+2025-07-11,Camiseta,Vermelho,GG,111.26,1,E-commerce,Sul,111.26
+2025-04-29,Jaqueta,Azul,M,221.21,3,E-commerce,Centro-Oeste,663.63
+2024-12-18,Calça,Verde,P,48.18,4,E-commerce,Sudeste,192.72
+2025-07-21,Camiseta,Vermelho,PP,187.19,4,E-commerce,Norte,748.76
+2025-05-14,Saia,Verde,GG,123.39,1,E-commerce,Sul,123.39
+2024-10-14,Short,Preto,G,197.65,4,Loja Física,Centro-Oeste,790.6
+2025-01-21,Vestido,Verde,GG,42.35,4,E-commerce,Sudeste,169.4
+2025-06-18,Jaqueta,Verde,G,265.31,4,E-commerce,Sudeste,1061.24
+2025-07-18,Saia,Branco,GG,292.84,4,Loja Física,Sudeste,1171.36
+2025-02-21,Vestido,Branco,GG,291.6,3,E-commerce,Sudeste,874.8
+2024-10-31,Vestido,Amarelo,GG,232.41,4,Loja Física,Sudeste,929.64
+2024-12-19,Camiseta,Branco,G,65.12,2,Loja Física,Sul,130.24
+2025-07-05,Vestido,Verde,G,234.73,1,Marketplace,Centro-Oeste,234.73
+2025-02-24,Short,Azul,GG,36.64,3,Marketplace,Sudeste,109.92
+2025-07-13,Saia,Verde,P,35.97,4,Marketplace,Nordeste,143.88
+2025-02-10,Vestido,Azul,M,117.37,3,Marketplace,Nordeste,352.11
+2024-12-16,Camiseta,Azul,M,161.93,4,E-commerce,Centro-Oeste,647.72
+2024-10-01,Short,Branco,M,238.01,2,Marketplace,Norte,476.02
+2024-09-10,Calça,Vermelho,G,214.49,1,Loja Física,Norte,214.49
+2024-10-09,Saia,Preto,G,150.39,4,E-commerce,Norte,601.56
+2024-09-14,Vestido,Branco,P,103.88,4,Marketplace,Nordeste,415.52
+2025-01-03,Camiseta,Branco,M,299.22,4,Loja Física,Norte,1196.88
+2025-04-02,Calça,Vermelho,M,145.07,4,E-commerce,Sul,580.28
+2025-05-16,Calça,Preto,GG,151.87,1,E-commerce,Sudeste,151.87
+2024-10-20,Jaqueta,Verde,G,74.18,1,Marketplace,Nordeste,74.18
+2025-06-18,Short,Amarelo,M,244.6,2,E-commerce,Centro-Oeste,489.2
+2024-11-15,Vestido,Amarelo,P,217.29,1,Loja Física,Centro-Oeste,217.29
+2025-07-09,Camiseta,Verde,P,89.61,4,E-commerce,Sudeste,358.44
+2024-12-18,Jaqueta,Branco,M,52.24,2,Loja Física,Nordeste,104.48
+2024-08-18,Short,Preto,G,213.73,2,E-commerce,Norte,427.46
+2025-01-25,Jaqueta,Branco,P,206.72,2,Marketplace,Norte,413.44
+2024-11-22,Saia,Azul,GG,103.78,4,Loja Física,Sul,415.12
+2025-02-01,Short,Branco,P,286.73,3,E-commerce,Sul,860.19
+2025-07-03,Short,Branco,PP,70.79,4,E-commerce,Norte,283.16
+2025-05-23,Vestido,Verde,PP,146.73,1,E-commerce,Centro-Oeste,146.73
+2024-10-01,Short,Verde,G,284.78,1,Loja Física,Centro-Oeste,284.78
+2024-08-20,Jaqueta,Verde,M,143.33,4,Loja Física,Sul,573.32
+2024-11-26,Short,Amarelo,G,202.4,4,Loja Física,Sudeste,809.6
+2025-07-26,Vestido,Azul,G,137.35,2,Marketplace,Norte,274.7
+2025-04-06,Vestido,Verde,G,104.04,4,Marketplace,Sul,416.16
+2024-12-14,Saia,Preto,G,295.67,2,Loja Física,Sul,591.34
+2025-08-06,Jaqueta,Amarelo,GG,140.52,1,E-commerce,Norte,140.52
+2025-03-05,Calça,Vermelho,GG,271.41,2,Marketplace,Norte,542.82
+2025-04-30,Calça,Preto,P,92.09,4,Loja Física,Centro-Oeste,368.36
+2025-07-03,Short,Preto,PP,87.54,1,E-commerce,Sudeste,87.54
+2024-11-16,Saia,Verde,G,38.41,3,Marketplace,Sudeste,115.23
+2025-01-17,Camiseta,Vermelho,P,205.95,2,E-commerce,Norte,411.9
+2024-11-25,Short,Vermelho,PP,129.5,1,E-commerce,Nordeste,129.5
+2024-12-06,Saia,Amarelo,M,263.38,2,E-commerce,Sul,526.76
+2025-04-22,Jaqueta,Vermelho,GG,157.77,1,E-commerce,Sul,157.77
+2025-04-09,Jaqueta,Azul,PP,291.41,1,Marketplace,Norte,291.41
+2024-10-08,Jaqueta,Verde,M,80.09,2,Marketplace,Nordeste,160.18
+2024-09-12,Jaqueta,Vermelho,PP,264.53,3,Marketplace,Centro-Oeste,793.59
+2025-08-04,Jaqueta,Amarelo,GG,239.68,1,Loja Física,Norte,239.68
+2025-04-27,Saia,Azul,GG,238.15,1,Marketplace,Norte,238.15
+2024-12-07,Saia,Branco,P,258.09,1,E-commerce,Sul,258.09
+2025-08-02,Vestido,Branco,G,235.48,3,Marketplace,Norte,706.44
+2025-01-22,Calça,Azul,PP,199.08,3,E-commerce,Norte,597.24
+2025-04-26,Jaqueta,Amarelo,PP,65.44,4,Loja Física,Norte,261.76
+2024-11-03,Camiseta,Azul,M,38.78,2,E-commerce,Sul,77.56
+2025-08-11,Saia,Verde,GG,278.63,3,E-commerce,Centro-Oeste,835.89
+2025-01-04,Camiseta,Verde,PP,196.5,2,E-commerce,Centro-Oeste,393.0
+2024-11-21,Camiseta,Branco,GG,245.07,4,Loja Física,Norte,980.28
+2025-07-11,Camiseta,Vermelho,PP,160.01,2,Marketplace,Sul,320.02
+2025-06-23,Vestido,Amarelo,P,61.67,3,Marketplace,Centro-Oeste,185.01
+2025-01-08,Saia,Branco,G,63.8,2,Loja Física,Centro-Oeste,127.6
+2024-10-15,Camiseta,Vermelho,PP,215.1,3,E-commerce,Centro-Oeste,645.3
+2025-04-05,Jaqueta,Vermelho,GG,146.18,2,Marketplace,Sul,292.36
+2024-09-05,Short,Verde,P,84.14,3,Loja Física,Sul,252.42
+2025-07-07,Camiseta,Preto,PP,162.73,3,Marketplace,Norte,488.19
+2025-01-21,Vestido,Preto,M,47.34,2,Loja Física,Sudeste,94.68
+2025-04-29,Saia,Azul,G,187.13,4,E-commerce,Centro-Oeste,748.52
+2024-10-23,Vestido,Verde,PP,102.63,1,Marketplace,Sudeste,102.63
+2024-12-15,Camiseta,Vermelho,P,245.34,4,Loja Física,Sul,981.36
+2024-09-10,Saia,Amarelo,M,113.8,2,Marketplace,Sul,227.6
+2024-09-12,Short,Preto,P,152.91,4,Marketplace,Sul,611.64
+2025-02-04,Camiseta,Vermelho,P,33.14,3,Marketplace,Sudeste,99.42
+2025-07-09,Vestido,Preto,M,49.56,1,Marketplace,Sul,49.56
+2025-07-02,Calça,Preto,P,135.97,2,Loja Física,Norte,271.94
+2025-02-06,Jaqueta,Preto,M,159.58,2,E-commerce,Sul,319.16
+2025-01-26,Vestido,Amarelo,PP,192.01,2,Loja Física,Nordeste,384.02
+2025-04-02,Saia,Verde,M,108.75,1,Loja Física,Sudeste,108.75
+2025-01-13,Camiseta,Amarelo,M,217.65,3,Loja Física,Nordeste,652.95
+2025-05-05,Jaqueta,Branco,G,262.23,2,E-commerce,Sul,524.46
+2025-04-02,Camiseta,Vermelho,M,240.56,4,Marketplace,Norte,962.24
+2025-05-25,Saia,Verde,M,40.7,2,Marketplace,Centro-Oeste,81.4
+2024-11-11,Camiseta,Verde,PP,159.74,2,Marketplace,Sul,319.48
+2025-07-31,Calça,Verde,G,58.33,2,E-commerce,Norte,116.66
+2025-06-19,Jaqueta,Verde,GG,95.35,2,Marketplace,Sudeste,190.7
+2025-08-11,Jaqueta,Amarelo,PP,296.4,3,E-commerce,Nordeste,889.2
+2024-12-10,Saia,Verde,PP,68.47,4,Marketplace,Nordeste,273.88
+2025-01-03,Calça,Azul,GG,164.7,3,Marketplace,Nordeste,494.1
+2024-10-29,Vestido,Vermelho,M,196.9,4,Loja Física,Sudeste,787.6
+2025-07-14,Camiseta,Verde,P,219.67,2,E-commerce,Norte,439.34
+2025-06-28,Short,Vermelho,G,181.11,1,Loja Física,Sudeste,181.11
+2024-09-11,Camiseta,Azul,P,32.64,3,Loja Física,Nordeste,97.92
+2025-02-13,Camiseta,Azul,GG,118.14,1,Loja Física,Sul,118.14
+2024-12-09,Vestido,Vermelho,PP,169.78,3,E-commerce,Centro-Oeste,509.34
+2025-03-25,Camiseta,Preto,PP,53.72,2,E-commerce,Sudeste,107.44
+2025-03-01,Calça,Branco,G,124.67,3,Marketplace,Sudeste,374.01
+2024-08-30,Calça,Preto,PP,38.96,2,Loja Física,Norte,77.92
+2025-07-10,Jaqueta,Preto,PP,51.22,3,Marketplace,Norte,153.66
+2025-03-10,Saia,Amarelo,G,137.17,2,Loja Física,Sudeste,274.34
+2025-02-13,Short,Preto,G,65.83,2,E-commerce,Nordeste,131.66
+2024-11-24,Camiseta,Verde,GG,183.24,4,E-commerce,Centro-Oeste,732.96
+2025-07-29,Camiseta,Amarelo,PP,216.16,2,E-commerce,Norte,432.32
+2024-09-22,Vestido,Amarelo,PP,246.16,4,Loja Física,Nordeste,984.64
+2025-07-06,Saia,Azul,GG,84.04,2,E-commerce,Sul,168.08
+2024-09-29,Calça,Preto,M,75.22,1,Loja Física,Norte,75.22
+2025-06-21,Short,Azul,M,58.23,2,Marketplace,Nordeste,116.46
+2025-02-19,Jaqueta,Vermelho,M,201.84,1,Loja Física,Nordeste,201.84
+2024-10-26,Calça,Branco,GG,220.75,1,Marketplace,Centro-Oeste,220.75
+2025-05-28,Saia,Amarelo,PP,38.53,2,Loja Física,Centro-Oeste,77.06
+2025-07-04,Jaqueta,Vermelho,GG,282.78,1,Marketplace,Sul,282.78
+2025-04-03,Vestido,Vermelho,GG,44.03,4,E-commerce,Nordeste,176.12
+2025-08-02,Vestido,Verde,M,176.15,3,Marketplace,Nordeste,528.45
+2024-09-16,Camiseta,Branco,P,221.45,2,E-commerce,Centro-Oeste,442.9
+2025-05-27,Saia,Vermelho,PP,265.16,1,E-commerce,Norte,265.16
+2025-08-04,Short,Vermelho,M,222.8,2,Marketplace,Norte,445.6
+2025-07-01,Jaqueta,Branco,P,246.47,4,Loja Física,Sudeste,985.88
+2024-10-13,Calça,Branco,P,121.65,2,Loja Física,Centro-Oeste,243.3
+2025-01-13,Saia,Vermelho,G,250.0,2,Loja Física,Sudeste,500.0
+2025-07-19,Saia,Branco,PP,51.63,1,Loja Física,Centro-Oeste,51.63
+2025-06-02,Vestido,Vermelho,P,271.6,4,Loja Física,Sul,1086.4
+2024-10-12,Camiseta,Vermelho,M,177.85,3,E-commerce,Nordeste,533.55
+2025-04-26,Camiseta,Verde,G,250.67,3,Loja Física,Sul,752.01
+2025-03-31,Jaqueta,Preto,PP,152.13,1,E-commerce,Centro-Oeste,152.13
+2025-06-12,Vestido,Vermelho,GG,203.77,2,E-commerce,Nordeste,407.54
+2025-07-16,Saia,Azul,M,172.13,1,E-commerce,Norte,172.13
+2025-06-17,Short,Amarelo,P,227.53,1,Marketplace,Norte,227.53
+2024-12-13,Vestido,Preto,P,52.04,1,Marketplace,Sudeste,52.04
+2025-03-06,Jaqueta,Preto,M,46.3,2,E-commerce,Centro-Oeste,92.6
+2025-01-16,Jaqueta,Preto,P,96.72,4,Marketplace,Centro-Oeste,386.88
+2024-11-04,Vestido,Verde,G,73.08,1,Loja Física,Norte,73.08
+2025-01-02,Jaqueta,Vermelho,PP,265.38,2,Loja Física,Sul,530.76
+2025-04-27,Vestido,Verde,G,89.19,4,E-commerce,Nordeste,356.76
+2025-04-24,Calça,Vermelho,P,293.48,1,Loja Física,Sul,293.48
+2025-07-03,Vestido,Verde,GG,120.96,3,E-commerce,Sul,362.88
+2025-06-28,Vestido,Verde,PP,79.17,4,E-commerce,Norte,316.68
+2025-03-05,Jaqueta,Amarelo,PP,243.22,1,Loja Física,Norte,243.22
+2025-05-24,Jaqueta,Azul,M,207.85,4,Marketplace,Norte,831.4
+2024-12-16,Camiseta,Verde,M,164.51,4,Loja Física,Sudeste,658.04
+2024-09-18,Camiseta,Amarelo,GG,179.95,4,Loja Física,Sul,719.8
+2025-05-22,Calça,Branco,PP,224.18,4,E-commerce,Centro-Oeste,896.72
+2025-07-03,Camiseta,Azul,GG,91.68,4,E-commerce,Nordeste,366.72
+2024-11-18,Vestido,Verde,M,299.01,4,E-commerce,Sudeste,1196.04
+2024-08-31,Jaqueta,Preto,M,293.19,1,E-commerce,Centro-Oeste,293.19
+2024-12-26,Camiseta,Branco,PP,205.59,3,Marketplace,Sul,616.77
+2025-05-27,Camiseta,Branco,G,83.88,2,Marketplace,Norte,167.76
+2025-01-19,Calça,Amarelo,P,213.66,4,Marketplace,Sul,854.64
+2024-10-01,Saia,Branco,M,49.49,2,E-commerce,Nordeste,98.98
+2025-08-10,Calça,Azul,M,38.28,1,E-commerce,Sudeste,38.28
+2025-04-14,Vestido,Verde,G,99.57,4,E-commerce,Sudeste,398.28
+2024-10-11,Jaqueta,Verde,G,154.91,3,Marketplace,Nordeste,464.73
+2025-04-11,Calça,Preto,GG,264.43,2,E-commerce,Centro-Oeste,528.86
+2025-03-11,Camiseta,Amarelo,GG,226.34,4,Loja Física,Centro-Oeste,905.36
+2025-05-24,Jaqueta,Preto,P,230.53,1,Loja Física,Sudeste,230.53
+2024-10-12,Jaqueta,Branco,P,144.88,3,E-commerce,Sudeste,434.64
+2025-07-19,Camiseta,Preto,PP,123.4,2,Loja Física,Norte,246.8
+2025-04-08,Calça,Azul,GG,130.18,2,Loja Física,Centro-Oeste,260.36
+2024-10-09,Camiseta,Verde,M,296.67,4,Marketplace,Nordeste,1186.68
+2024-12-28,Saia,Branco,GG,40.83,3,E-commerce,Centro-Oeste,122.49
+2025-05-02,Jaqueta,Preto,M,264.1,3,E-commerce,Norte,792.3
+2024-09-01,Short,Amarelo,G,186.24,3,Marketplace,Sudeste,558.72
+2025-01-01,Short,Azul,GG,148.43,3,Loja Física,Sudeste,445.29
+2024-10-20,Vestido,Azul,G,225.82,1,Loja Física,Norte,225.82
+2025-07-07,Camiseta,Preto,P,161.4,3,E-commerce,Nordeste,484.2
+2025-01-04,Camiseta,Verde,P,265.82,2,Loja Física,Sudeste,531.64
+2025-04-25,Vestido,Preto,PP,273.19,2,Marketplace,Sul,546.38
+2025-05-07,Vestido,Branco,GG,143.86,1,Marketplace,Sudeste,143.86
+2024-09-29,Vestido,Preto,G,104.74,2,E-commerce,Sul,209.48
+2024-11-06,Jaqueta,Azul,M,189.93,2,Marketplace,Norte,379.86
+2024-09-11,Saia,Preto,P,276.34,3,Marketplace,Norte,829.02
+2025-07-23,Camiseta,Verde,P,86.88,2,E-commerce,Sudeste,173.76
+2025-04-14,Jaqueta,Amarelo,M,198.2,1,Marketplace,Centro-Oeste,198.2
+2024-08-16,Vestido,Vermelho,G,200.52,3,Marketplace,Sul,601.56
+2025-03-02,Camiseta,Preto,G,227.94,4,Marketplace,Nordeste,911.76
+2025-02-17,Jaqueta,Verde,GG,65.52,3,Loja Física,Sudeste,196.56
+2025-04-05,Saia,Verde,GG,223.27,1,E-commerce,Nordeste,223.27
+2025-01-11,Jaqueta,Amarelo,PP,275.44,3,E-commerce,Sudeste,826.32
+2024-09-20,Saia,Azul,P,78.51,3,E-commerce,Centro-Oeste,235.53
+2024-11-02,Vestido,Verde,GG,94.14,1,Loja Física,Centro-Oeste,94.14
+2024-10-04,Saia,Verde,G,292.28,3,Loja Física,Centro-Oeste,876.84
+2024-10-07,Camiseta,Verde,M,78.86,1,E-commerce,Centro-Oeste,78.86
+2024-09-16,Vestido,Verde,G,260.68,1,Loja Física,Norte,260.68
+2025-01-12,Camiseta,Branco,P,162.92,4,E-commerce,Norte,651.68
+2025-02-06,Short,Branco,G,96.75,2,Loja Física,Sul,193.5
+2024-10-07,Calça,Azul,PP,265.1,2,Marketplace,Nordeste,530.2
+2024-12-18,Saia,Preto,P,150.23,3,Marketplace,Sudeste,450.69
+2024-12-01,Calça,Verde,M,169.0,3,E-commerce,Sudeste,507.0
+2025-08-01,Calça,Amarelo,PP,126.99,4,Loja Física,Norte,507.96
+2025-05-26,Saia,Preto,P,190.1,4,Loja Física,Sudeste,760.4
+2024-12-02,Vestido,Amarelo,M,74.15,4,Marketplace,Norte,296.6
+2024-09-29,Short,Preto,PP,135.59,1,Marketplace,Sul,135.59
+2025-02-04,Camiseta,Azul,PP,291.74,4,Loja Física,Nordeste,1166.96
+2025-05-15,Jaqueta,Verde,P,99.7,4,Loja Física,Sul,398.8
+2024-11-13,Camiseta,Verde,GG,207.32,3,Loja Física,Centro-Oeste,621.96
+2025-03-16,Jaqueta,Vermelho,PP,117.8,4,Loja Física,Centro-Oeste,471.2
+2025-07-19,Camiseta,Amarelo,PP,238.84,1,Loja Física,Centro-Oeste,238.84
+2025-07-22,Saia,Preto,M,65.34,1,Loja Física,Sul,65.34
+2025-02-04,Short,Preto,G,291.85,3,E-commerce,Sudeste,875.55
+2025-06-08,Jaqueta,Branco,P,152.52,4,Loja Física,Nordeste,610.08
+2024-09-08,Vestido,Vermelho,P,93.73,4,Marketplace,Centro-Oeste,374.92
+2025-08-11,Camiseta,Branco,GG,49.84,1,E-commerce,Centro-Oeste,49.84
+2025-03-06,Camiseta,Branco,GG,75.83,4,Loja Física,Centro-Oeste,303.32
+2025-02-08,Jaqueta,Branco,P,170.34,4,Marketplace,Nordeste,681.36
+2024-12-20,Vestido,Amarelo,GG,120.99,4,E-commerce,Centro-Oeste,483.96
+2024-08-15,Vestido,Amarelo,M,253.8,2,Marketplace,Nordeste,507.6
+2025-06-01,Saia,Azul,P,146.34,3,Loja Física,Centro-Oeste,439.02
+2024-11-14,Saia,Azul,GG,97.15,2,Loja Física,Sul,194.3
+2025-01-14,Saia,Branco,P,196.63,3,Loja Física,Sul,589.89
+2025-05-12,Saia,Vermelho,G,220.83,1,Loja Física,Nordeste,220.83
+2024-11-10,Saia,Preto,PP,75.1,4,E-commerce,Sul,300.4
+2025-03-05,Saia,Amarelo,P,75.26,3,E-commerce,Nordeste,225.78
+2024-12-19,Short,Vermelho,PP,39.9,2,Marketplace,Sul,79.8
+2025-06-08,Vestido,Verde,GG,228.83,4,Loja Física,Sul,915.32
+2024-09-15,Saia,Amarelo,PP,209.23,1,Marketplace,Nordeste,209.23
+2025-08-10,Vestido,Amarelo,P,158.15,3,E-commerce,Sudeste,474.45
+2024-10-15,Vestido,Azul,G,257.93,3,Loja Física,Sul,773.79
+2025-02-10,Calça,Preto,GG,247.53,3,Loja Física,Centro-Oeste,742.59
+2024-12-12,Short,Preto,P,188.05,4,E-commerce,Sudeste,752.2
+2024-10-26,Saia,Verde,GG,264.43,2,E-commerce,Nordeste,528.86
+2025-08-09,Camiseta,Verde,M,85.58,2,E-commerce,Sudeste,171.16
+2025-04-21,Jaqueta,Amarelo,PP,60.22,3,E-commerce,Norte,180.66
+2024-10-24,Camiseta,Branco,M,102.83,1,E-commerce,Norte,102.83
+2025-06-20,Short,Azul,P,45.41,1,Loja Física,Sul,45.41
+2025-08-09,Jaqueta,Azul,G,173.42,2,E-commerce,Sul,346.84
+2025-05-27,Short,Amarelo,GG,282.88,1,Loja Física,Centro-Oeste,282.88
+2025-06-19,Vestido,Vermelho,PP,40.62,2,Loja Física,Sudeste,81.24
+2025-05-08,Jaqueta,Branco,GG,62.97,3,E-commerce,Norte,188.91
+2024-09-11,Vestido,Amarelo,P,152.09,2,E-commerce,Sul,304.18
+2025-01-14,Camiseta,Branco,GG,282.15,2,Loja Física,Sudeste,564.3
+2024-12-18,Camiseta,Branco,PP,115.36,3,E-commerce,Sul,346.08
+2025-04-11,Jaqueta,Branco,P,166.95,1,E-commerce,Sul,166.95
+2025-03-06,Jaqueta,Amarelo,GG,41.22,2,E-commerce,Norte,82.44
+2025-06-11,Saia,Azul,G,70.05,2,Marketplace,Norte,140.1
+2024-10-14,Short,Azul,P,296.39,3,Loja Física,Sul,889.17
+2025-03-31,Saia,Branco,P,290.58,1,Marketplace,Nordeste,290.58
+2024-09-04,Short,Vermelho,G,31.33,2,E-commerce,Sul,62.66
+2024-11-05,Saia,Preto,M,286.99,3,Marketplace,Sul,860.97
+2024-10-30,Vestido,Amarelo,PP,202.56,2,E-commerce,Centro-Oeste,405.12
+2024-09-27,Jaqueta,Preto,M,264.34,4,Marketplace,Centro-Oeste,1057.36
+2025-04-18,Camiseta,Vermelho,GG,152.78,3,E-commerce,Centro-Oeste,458.34
+2024-09-18,Short,Amarelo,G,169.21,1,Marketplace,Nordeste,169.21
+2024-08-26,Short,Branco,M,161.99,1,Marketplace,Nordeste,161.99
+2024-09-05,Camiseta,Azul,P,210.05,1,Marketplace,Sul,210.05
+2025-08-04,Saia,Preto,GG,67.71,1,Loja Física,Centro-Oeste,67.71
+2025-06-13,Short,Verde,GG,38.09,2,Marketplace,Nordeste,76.18
+2024-09-18,Vestido,Verde,M,113.14,2,Loja Física,Norte,226.28
+2025-03-02,Jaqueta,Vermelho,M,220.26,1,E-commerce,Sul,220.26
+2025-01-31,Camiseta,Branco,G,84.5,1,Marketplace,Sudeste,84.5
+2025-05-28,Jaqueta,Preto,PP,211.83,1,E-commerce,Sul,211.83
+2025-07-09,Short,Branco,M,291.88,2,E-commerce,Sudeste,583.76
+2024-11-14,Short,Preto,M,55.35,1,Marketplace,Centro-Oeste,55.35
+2024-10-27,Camiseta,Vermelho,P,211.6,1,Loja Física,Sudeste,211.6
+2025-01-25,Vestido,Vermelho,GG,149.81,4,Marketplace,Centro-Oeste,599.24
+2025-05-18,Calça,Verde,PP,264.4,4,E-commerce,Norte,1057.6
+2025-03-29,Camiseta,Branco,P,77.83,1,E-commerce,Sudeste,77.83
+2025-04-26,Calça,Amarelo,G,217.01,3,Marketplace,Sul,651.03
+2025-04-20,Saia,Verde,G,256.29,1,Loja Física,Centro-Oeste,256.29
+2025-02-26,Calça,Branco,M,285.05,4,Loja Física,Sul,1140.2
+2024-10-08,Vestido,Verde,M,214.48,3,E-commerce,Nordeste,643.44
+2024-10-16,Saia,Amarelo,G,164.24,3,E-commerce,Centro-Oeste,492.72
+2024-12-26,Calça,Azul,M,196.82,1,Loja Física,Sudeste,196.82
+2025-04-01,Saia,Azul,PP,264.6,4,Marketplace,Centro-Oeste,1058.4
+2024-11-25,Calça,Azul,M,184.06,4,E-commerce,Sul,736.24
+2024-09-06,Vestido,Azul,GG,38.2,3,Loja Física,Norte,114.6
+2025-06-07,Calça,Preto,M,281.36,1,E-commerce,Centro-Oeste,281.36
+2024-12-25,Calça,Azul,P,216.17,2,Marketplace,Sudeste,432.34
+2025-01-06,Calça,Amarelo,PP,212.66,2,Loja Física,Nordeste,425.32
+2024-12-28,Camiseta,Vermelho,P,88.23,4,E-commerce,Norte,352.92
+2025-01-16,Camiseta,Vermelho,P,207.9,2,Marketplace,Nordeste,415.8
+2025-01-28,Camiseta,Preto,GG,136.34,4,E-commerce,Centro-Oeste,545.36
+2024-10-02,Vestido,Azul,PP,205.83,4,Marketplace,Sul,823.32
+2025-04-21,Saia,Azul,PP,58.78,4,Marketplace,Sul,235.12
+2024-09-19,Short,Azul,PP,207.62,2,Loja Física,Sudeste,415.24
+2024-12-06,Calça,Verde,PP,299.84,4,Marketplace,Sul,1199.36
+2025-03-28,Calça,Branco,PP,43.02,3,E-commerce,Norte,129.06
+2025-05-11,Vestido,Verde,GG,293.84,1,Marketplace,Sul,293.84
+2024-09-25,Calça,Branco,M,139.87,1,Marketplace,Sudeste,139.87
+2024-09-26,Camiseta,Azul,P,265.1,4,Loja Física,Centro-Oeste,1060.4
+2024-10-12,Short,Azul,PP,241.24,1,Marketplace,Centro-Oeste,241.24
+2025-02-03,Jaqueta,Verde,M,183.09,2,Marketplace,Sul,366.18
+2025-04-17,Calça,Verde,M,229.38,2,E-commerce,Nordeste,458.76
+2025-07-06,Camiseta,Branco,P,267.2,1,Loja Física,Centro-Oeste,267.2
+2025-03-25,Jaqueta,Vermelho,GG,139.12,2,Loja Física,Sul,278.24
+2025-03-01,Short,Branco,G,118.3,1,Loja Física,Sudeste,118.3
+2024-10-25,Jaqueta,Verde,G,210.25,1,Marketplace,Sul,210.25
+2025-02-17,Camiseta,Amarelo,M,248.12,1,Loja Física,Centro-Oeste,248.12
+2025-02-08,Saia,Verde,P,235.82,4,Marketplace,Sudeste,943.28
+2025-07-14,Saia,Amarelo,G,245.41,1,Marketplace,Sul,245.41
+2024-09-02,Jaqueta,Preto,M,147.61,4,E-commerce,Norte,590.44
+2025-07-03,Vestido,Verde,GG,250.82,1,E-commerce,Sudeste,250.82
+2025-01-28,Jaqueta,Preto,G,62.46,1,E-commerce,Norte,62.46
+2025-02-23,Calça,Vermelho,M,177.01,1,E-commerce,Nordeste,177.01
+2024-11-17,Calça,Branco,M,31.55,2,E-commerce,Sudeste,63.1
+2025-04-06,Saia,Amarelo,PP,117.64,4,Marketplace,Norte,470.56
+2024-11-09,Vestido,Branco,GG,128.94,4,Marketplace,Centro-Oeste,515.76
+2025-05-19,Camiseta,Preto,PP,136.97,1,Loja Física,Centro-Oeste,136.97
+2025-04-14,Calça,Amarelo,P,217.78,1,Marketplace,Nordeste,217.78
+2025-07-17,Saia,Branco,PP,134.91,2,Marketplace,Sudeste,269.82
+2024-10-21,Short,Verde,PP,151.15,2,E-commerce,Sudeste,302.3
+2024-12-11,Saia,Azul,G,94.14,2,Marketplace,Sudeste,188.28
+2024-12-21,Calça,Preto,M,130.78,4,E-commerce,Nordeste,523.12
+2025-06-02,Calça,Branco,GG,91.36,4,Loja Física,Sudeste,365.44
+2025-04-26,Saia,Preto,PP,49.76,4,Loja Física,Centro-Oeste,199.04
+2025-07-18,Camiseta,Preto,GG,192.93,1,Marketplace,Norte,192.93
+2025-01-21,Jaqueta,Amarelo,PP,210.42,4,Loja Física,Centro-Oeste,841.68
+2024-10-11,Calça,Amarelo,P,197.26,3,Marketplace,Centro-Oeste,591.78
+2024-09-27,Saia,Azul,PP,155.14,3,Loja Física,Norte,465.42
+2025-05-04,Saia,Verde,G,132.54,2,E-commerce,Centro-Oeste,265.08
+2025-03-15,Vestido,Preto,M,263.1,4,E-commerce,Nordeste,1052.4
+2025-06-04,Jaqueta,Branco,P,170.15,3,E-commerce,Norte,510.45
+2025-03-07,Short,Vermelho,PP,159.38,2,E-commerce,Centro-Oeste,318.76
+2024-09-17,Camiseta,Preto,GG,36.92,4,Marketplace,Sul,147.68
+2025-01-06,Short,Preto,P,122.14,1,Loja Física,Centro-Oeste,122.14
+2024-10-31,Jaqueta,Azul,P,132.65,3,Marketplace,Nordeste,397.95
+2024-08-24,Jaqueta,Verde,PP,137.68,1,E-commerce,Sudeste,137.68
+2024-11-06,Jaqueta,Vermelho,P,186.65,4,Marketplace,Centro-Oeste,746.6
+2025-06-21,Short,Amarelo,GG,174.07,3,Loja Física,Sudeste,522.21
+2025-04-19,Jaqueta,Amarelo,P,194.13,4,Marketplace,Sul,776.52
+2025-04-27,Saia,Branco,GG,236.52,1,Loja Física,Centro-Oeste,236.52
+2024-11-07,Short,Vermelho,PP,249.51,3,Marketplace,Norte,748.53
+2025-02-08,Jaqueta,Amarelo,M,223.89,1,Loja Física,Sudeste,223.89
+2025-03-12,Saia,Branco,P,287.99,4,Loja Física,Sul,1151.96
+2024-12-05,Vestido,Verde,M,34.92,4,E-commerce,Norte,139.68
+2024-11-23,Jaqueta,Branco,GG,82.86,1,Loja Física,Norte,82.86
+2024-10-28,Short,Amarelo,P,32.04,3,E-commerce,Norte,96.12
+2024-10-07,Calça,Azul,G,204.82,1,E-commerce,Norte,204.82
+2024-09-08,Jaqueta,Azul,M,272.47,4,E-commerce,Centro-Oeste,1089.88
+2025-03-01,Calça,Azul,P,95.74,1,Marketplace,Centro-Oeste,95.74
+2025-07-01,Saia,Amarelo,M,280.3,4,Marketplace,Centro-Oeste,1121.2
+2025-07-19,Vestido,Azul,P,46.27,1,Marketplace,Sul,46.27
+2025-03-12,Camiseta,Vermelho,PP,282.3,3,Marketplace,Sul,846.9
+2025-04-20,Vestido,Verde,M,124.94,3,Loja Física,Sul,374.82
+2025-03-31,Jaqueta,Branco,G,57.38,1,Loja Física,Nordeste,57.38
+2025-03-18,Calça,Branco,G,161.19,1,Marketplace,Sul,161.19
+2025-02-24,Calça,Amarelo,GG,99.33,3,Loja Física,Centro-Oeste,297.99
+2025-02-06,Short,Azul,P,106.92,4,Loja Física,Centro-Oeste,427.68
+2024-10-26,Calça,Azul,M,112.97,3,E-commerce,Nordeste,338.91
+2025-05-15,Short,Preto,GG,246.82,4,E-commerce,Nordeste,987.28
+2024-09-26,Saia,Verde,M,175.57,1,E-commerce,Sul,175.57
+2024-09-03,Camiseta,Vermelho,P,114.05,1,E-commerce,Sudeste,114.05
+2025-05-14,Jaqueta,Branco,G,194.79,4,Loja Física,Nordeste,779.16
+2025-06-05,Short,Preto,PP,223.36,1,Marketplace,Norte,223.36
+2024-09-27,Camiseta,Preto,G,103.61,4,Loja Física,Centro-Oeste,414.44
+2025-05-31,Calça,Amarelo,GG,141.66,2,Loja Física,Norte,283.32
+2025-03-13,Calça,Branco,PP,62.91,3,Loja Física,Centro-Oeste,188.73
+2024-08-15,Camiseta,Amarelo,GG,78.91,2,E-commerce,Centro-Oeste,157.82
+2025-07-16,Calça,Vermelho,P,213.9,4,E-commerce,Nordeste,855.6
+2024-10-19,Saia,Preto,PP,78.99,3,E-commerce,Nordeste,236.97
+2025-05-01,Saia,Preto,GG,171.79,4,Marketplace,Norte,687.16
+2024-12-27,Camiseta,Verde,P,221.44,3,Loja Física,Centro-Oeste,664.32
+2025-03-22,Short,Vermelho,G,58.86,3,Marketplace,Norte,176.58
+2024-08-20,Short,Preto,P,183.17,3,E-commerce,Sudeste,549.51
+2025-01-30,Camiseta,Vermelho,M,99.27,3,Marketplace,Norte,297.81
+2025-01-26,Short,Branco,P,289.99,4,Loja Física,Sul,1159.96
+2025-05-10,Short,Azul,P,160.56,3,Loja Física,Norte,481.68
+2025-07-07,Saia,Preto,M,247.62,3,E-commerce,Sul,742.86
+2025-07-12,Short,Verde,GG,178.56,2,E-commerce,Sul,357.12
+2025-03-04,Vestido,Branco,GG,41.72,1,Marketplace,Sul,41.72
+2025-03-16,Jaqueta,Vermelho,P,200.95,1,E-commerce,Sudeste,200.95
+2025-05-18,Calça,Amarelo,M,286.88,2,E-commerce,Norte,573.76
+2024-12-20,Vestido,Branco,M,192.44,2,Loja Física,Norte,384.88
+2024-10-28,Short,Preto,G,251.18,4,E-commerce,Sudeste,1004.72
+2025-06-03,Saia,Vermelho,GG,268.74,4,E-commerce,Centro-Oeste,1074.96
+2025-02-28,Camiseta,Azul,PP,91.58,4,Loja Física,Nordeste,366.32
+2025-04-13,Short,Branco,GG,87.25,2,Loja Física,Norte,174.5
+2024-09-05,Saia,Preto,GG,194.96,2,Marketplace,Nordeste,389.92
+2025-01-28,Jaqueta,Verde,G,140.98,3,E-commerce,Sudeste,422.94
+2024-12-30,Short,Amarelo,PP,256.76,4,Loja Física,Centro-Oeste,1027.04
+2025-08-10,Camiseta,Vermelho,G,273.01,4,Marketplace,Centro-Oeste,1092.04
+2025-04-12,Saia,Branco,PP,125.42,4,Marketplace,Centro-Oeste,501.68
+2025-05-05,Saia,Branco,P,93.96,1,E-commerce,Sudeste,93.96
+2025-07-21,Saia,Azul,PP,240.74,3,E-commerce,Sul,722.22
+2025-05-25,Jaqueta,Azul,G,104.2,4,Marketplace,Sul,416.8
+2025-04-09,Short,Verde,GG,252.11,4,Loja Física,Nordeste,1008.44
+2024-09-03,Jaqueta,Amarelo,PP,144.41,4,Marketplace,Sul,577.64
+2025-02-08,Calça,Verde,PP,210.24,1,E-commerce,Sul,210.24
+2025-02-27,Calça,Preto,M,55.79,1,Loja Física,Centro-Oeste,55.79
+2024-09-29,Short,Preto,GG,198.44,2,Loja Física,Centro-Oeste,396.88
+2025-04-22,Jaqueta,Verde,P,151.98,3,Marketplace,Nordeste,455.94

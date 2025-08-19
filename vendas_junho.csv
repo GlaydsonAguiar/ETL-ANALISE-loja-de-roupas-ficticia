@@ -1,0 +1,37 @@
+Data_Venda;Produto;Cor;Tamanho;Preço_Unitário;Quantidade;Canal_Venda;Região;Valor_Total
+2025-06-25;Vestido;Branco;M;54,14;2;Marketplace;Sudeste;108,28
+2025-06-19;Calça;Branco;M;285,08;3;Loja Física;Sudeste;855,24
+2025-06-14;Saia;Verde;P;195,62;4;E-commerce;Norte;782,48
+2025-06-23;Vestido;Verde;G;45,62;3;Marketplace;Nordeste;136,86
+2025-06-23;Jaqueta;Azul;P;268,62;1;E-commerce;Norte;268,62
+2025-06-01;Vestido;Preto;M;234,72;1;Loja Física;Nordeste;234,72
+2025-06-17;Calça;Branco;M;206,92;2;Loja Física;Sudeste;413,84
+2025-06-23;Jaqueta;Preto;P;233,23;4;Marketplace;Norte;932,92
+2025-06-29;Saia;Preto;P;267,84;2;E-commerce;Norte;535,68
+2025-06-14;Jaqueta;Vermelho;PP;73,41;2;Loja Física;Sul;146,82
+2025-06-05;Camiseta;Azul;M;31,72;2;E-commerce;Sudeste;63,44
+2025-06-24;Camiseta;Vermelho;P;294,92;4;Marketplace;Sul;1179,68
+2025-06-26;Calça;Verde;PP;57,68;4;E-commerce;Centro-Oeste;230,72
+2025-06-18;Jaqueta;Verde;G;265,31;4;E-commerce;Sudeste;1061,24
+2025-06-18;Short;Amarelo;M;244,60;2;E-commerce;Centro-Oeste;489,20
+2025-06-23;Vestido;Amarelo;P;61,67;3;Marketplace;Centro-Oeste;185,01
+2025-06-19;Jaqueta;Verde;GG;95,35;2;Marketplace;Sudeste;190,70
+2025-06-28;Short;Vermelho;G;181,11;1;Loja Física;Sudeste;181,11
+2025-06-21;Short;Azul;M;58,23;2;Marketplace;Nordeste;116,46
+2025-06-02;Vestido;Vermelho;P;271,60;4;Loja Física;Sul;1086,40
+2025-06-12;Vestido;Vermelho;GG;203,77;2;E-commerce;Nordeste;407,54
+2025-06-17;Short;Amarelo;P;227,53;1;Marketplace;Norte;227,53
+2025-06-28;Vestido;Verde;PP;79,17;4;E-commerce;Norte;316,68
+2025-06-08;Jaqueta;Branco;P;152,52;4;Loja Física;Nordeste;610,08
+2025-06-01;Saia;Azul;P;146,34;3;Loja Física;Centro-Oeste;439,02
+2025-06-08;Vestido;Verde;GG;228,83;4;Loja Física;Sul;915,32
+2025-06-20;Short;Azul;P;45,41;1;Loja Física;Sul;45,41
+2025-06-19;Vestido;Vermelho;PP;40,62;2;Loja Física;Sudeste;81,24
+2025-06-11;Saia;Azul;G;70,05;2;Marketplace;Norte;140,10
+2025-06-13;Short;Verde;GG;38,09;2;Marketplace;Nordeste;76,18
+2025-06-07;Calça;Preto;M;281,36;1;E-commerce;Centro-Oeste;281,36
+2025-06-02;Calça;Branco;GG;91,36;4;Loja Física;Sudeste;365,44
+2025-06-04;Jaqueta;Branco;P;170,15;3;E-commerce;Norte;510,45
+2025-06-21;Short;Amarelo;GG;174,07;3;Loja Física;Sudeste;522,21
+2025-06-05;Short;Preto;PP;223,36;1;Marketplace;Norte;223,36
+2025-06-03;Saia;Vermelho;GG;268,74;4;E-commerce;Centro-Oeste;1074,96
