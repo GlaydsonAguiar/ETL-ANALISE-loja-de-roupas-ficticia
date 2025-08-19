@@ -43,6 +43,11 @@ Arquivo com todas as vendas do mês de junho.
 
 Arquivo com o total de vendas do mês.
 
+##
+
+<img width="1406" height="791" alt="Power bi loja de roupas" src="https://github.com/user-attachments/assets/7b705d2b-c5a1-471b-9ad2-6a538d5c4ad8" />
+
+
 
 
 
